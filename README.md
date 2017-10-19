@@ -14,7 +14,7 @@ Scrabble is a word game in which two to four players score points by placing til
 | **1st: User enters a letter that is in the 1's array | "A"  | User score = 1  |
 | **2nd: User enters a letter that is in the 2's array | "D" | User score = 2 |
 | **3rd: User enters a letter that is in any array and get's the corresponding score. | "V" | User score = 4 |
-| **4th: User enters a letter a word and the equivalents scores are appended | "cat" | User score = 311 |
+| **4th: User enters a word and the equivalents scores are appended | "cat" | User score = 311 |
 | **5th: User enters a word and the score is added up properly | "cat" | User score = 5 |
 
 

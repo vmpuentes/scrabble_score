@@ -21,7 +21,7 @@ namespace Scrabble.Models
           }
           else if (inputLetter =! char)
           {
-            return "Please don't use symbols or integers."
+            return "Please don't use symbols or integers.";
           }
           else
           {
